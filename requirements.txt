@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+
+-e . # this triggers the setup.py when we try to install the requirements from requirements.txt
